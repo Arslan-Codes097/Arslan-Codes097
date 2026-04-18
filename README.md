@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Arslan!
-<img width="4096" height="4096" alt="InShot_20260412_234320430" src="https://github.com/user-attachments/assets/f242f934-e1cb-484e-ad0d-d57a418b6141" />
 
 I'm a passionate software developer constantly evolving my tech stack. My coding journey started with a strong foundation in C++ and Object-Oriented Programming, and has since expanded into full-stack web development, comprehensive Database Systems (DBS), and the world of cybersecurity. I love building out ideas in code, optimizing data architectures, and understanding how to keep those systems secure.
 
